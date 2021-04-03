@@ -16,15 +16,7 @@ export default function Home() {
           buraları hiç bilmiyorum ben ama 1-2 haftaya bişeyler çıkmaya başlar :*
         </p>
       </main>
-
-      <Footer />
-    </div>
-    <div className="container">
-      <Head>
-        <title>Next.js Starter!</title>
-        <link rel="icon" href="/favicon.ico" />
-      </Head>
-
+    
       <main>
         <Header title="2" />
         <p className="description">
@@ -34,5 +26,3 @@ export default function Home() {
 
       <Footer />
     </div>
-  )
-}
