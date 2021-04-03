@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Selamlar" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          buralar hiç bilmiyorum ben ama 1-2 haftaya bişeyler çıkmaya başlar :*
         </p>
       </main>
 
