@@ -19,5 +19,20 @@ export default function Home() {
 
       <Footer />
     </div>
+    <div className="container">
+      <Head>
+        <title>Next.js Starter!</title>
+        <link rel="icon" href="/favicon.ico" />
+      </Head>
+
+      <main>
+        <Header title="2" />
+        <p className="description">
+          2
+        </p>
+      </main>
+
+      <Footer />
+    </div>
   )
 }
